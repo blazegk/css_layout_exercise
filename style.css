@@ -24,6 +24,7 @@ header {
   flex-direction: row;
   text-align: right;
   padding-right: 90px;
+  padding-top: 25px;
   color: #515151;
 }
 
@@ -36,9 +37,7 @@ nav a {
   flex: 1;
   text-decoration: none;
   color: #515151;
-  margin-left: 10px;
-  margin-right: 10px;
-
+  margin-left: 40px;
 }
 
 #menu {
@@ -140,5 +139,4 @@ footer {
   padding-left: 45px;
   padding-right: 45px;
   margin-top: 40px;
-
 }
