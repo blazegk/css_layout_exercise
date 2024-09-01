@@ -36,8 +36,8 @@ nav a {
   flex: 1;
   text-decoration: none;
   color: #515151;
-  margin-left: 8px;
-  margin-right: 8px;
+  margin-left: 10px;
+  margin-right: 10px;
 
 }
 
@@ -103,6 +103,7 @@ nav a {
   gap: 15px;
   margin-left: 100px;
   margin-right: 100px;
+  margin-bottom: -35px;
 }
 
 .boxes {
